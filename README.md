@@ -1,0 +1,4 @@
+- 👋 Hi, I'm Ivan. I'm a bioinformatician with a background in molecular biology and computational biology.
+- 🧬 I work mostly on sequencing data analysis and computational molecular evolution.
+- 🧐 Broadly interested in computational biology and large-scale analysis.
+- 🔬 Most of my work lives in private institutional repositories or collaborative projects. Here I keep personal tools, notes, and small bioinformatics utilities.
